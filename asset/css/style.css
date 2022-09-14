@@ -1,0 +1,276 @@
+/* css navbar */
+    .navbar{
+        height: 120px;
+    }
+    .nav-link{
+        font-size: 17px;
+        font-weight: 700;
+    }
+/* end css navbar */
+
+/* halaman home */
+    /* css hero */
+    .hero-1{
+        display: flex;
+        margin-bottom: 50px;
+        align-items: center;
+    }
+    .hero-content1{
+        width: 80%;
+    }
+    .hero-font1{
+        font-size: 19px;
+        font-weight: 600;
+        color: #586D81;
+    }
+    .hero-button1 .btn{
+        background-color: #D86F76;
+        font-weight: 700;
+        border-radius: 15px;
+        color: #FFFFFF;
+    }
+    .modal-body .form-control{
+        border: none;
+      }
+      .modal-body .form-control:focus {
+        border: none;
+        outline: none;
+        box-shadow: none;
+      }
+      .modal-footer .btn{
+        border: none;
+      }
+      .modal-footer .btn-back{
+        background-color: #D86F76;
+        font-weight: 700;
+        border-radius: 15px;
+        color: #FFFFFF;
+      }
+      .modal-footer .btn-send{
+        background-color: #F4C5C8;
+        font-weight: 700;
+        border-radius: 15px;
+        color: #D86F76;
+      }
+      /* end css hero */
+
+    /* css content 1 */
+    .content1{
+        margin-bottom: 50px;
+    }
+    .content1-font{
+        font-size: 19px;
+        font-weight: 600;
+        color: #586D81;
+    }
+    .content1-button .btn{
+        background-color: #F4C5C8;
+        font-weight: 700;
+        border-radius: 15px;
+        color: #D86F76;
+    }
+    /* end css content 1 */
+
+    /* css content 2 */
+    .content2{
+        margin-bottom: 150px;
+    }
+    .content2-head{
+        font-weight: 700;
+        font-size: 36px;
+    }
+    .card{
+        width: 17rem;
+        height: 550px;
+        border-radius: 25px;
+    }
+    .kater-gam{
+        align-self: center;
+        margin-top: 20px;
+        height: 200px;
+        width: 200px;
+    }
+    .card-head{
+        font-size: 28px;
+        font-weight: 650;
+        color: #121F42;
+    }
+    .card-text{
+        font-size: 20px;
+        font-weight: 700;
+        color:#586D81;
+    }
+    /* end css content 2  */
+
+    /* css content 3 */
+    .content3{
+        margin-bottom: 150px;
+    }
+    .content3-header{
+        font-weight: 700;
+        font-size: 36px;
+    }
+    .content3-desc{
+        font-size: 20px;
+        font-weight: 700;
+        color:#586D81;
+    }
+    .content3-nomor{
+        font-size: 36px;
+        font-weight: 650;
+        color: #121F42;
+    }
+    .content3-nomor .badge{
+        color: #D86F76;
+        background-color: #F4C5C8;
+        width: 50px;
+        height: 50px;
+        border-radius: 150px;
+    }
+    .content3-head{
+        font-size: 28px;
+        font-weight: 650;
+        color: #121F42;
+    }
+    .content3-body{
+        font-size: 20px;
+        font-weight: 700;
+        color:#586D81;
+    }
+    /* end css content 3 */
+
+
+    /* css content 4 */
+    .content4{
+        margin-bottom: 150px;
+    }
+    .content4-header{
+        font-weight: 700;
+        font-size: 36px;
+        margin-bottom: 0px;
+    }
+    .content4-desc{
+        font-size: 18px;
+        font-weight: 700;
+        color:#586D81;
+    }
+    .content4-body{
+        font-size: 24px;
+        font-weight: 700;
+        color:#586D81;
+    }
+    .content4-body ul li{
+        margin-bottom: 10px;
+    }
+    /* end css content 4 */
+
+
+    /* css content 5 */
+    .content5{
+        margin-bottom: 200px;
+    }
+    .content5-header{
+        font-weight: 700;
+        font-size: 36px;
+    }
+    .content5-isi{
+        font-size: 30px;
+        font-weight: 650;
+        color: #121F42;
+    }
+    .content5-isi .badge{
+        color: #121F42;
+        background-color: #F4C5C8;
+        margin-bottom: 25px;
+        padding: 20px;
+        border-radius: 20px;
+    }
+    /* end css content 5 */
+/* end halaman home */
+
+/* css halaman blog */
+.news p{
+    font-size: 24px;
+    font-weight: 700;
+}
+.news p a{
+    text-decoration:none;
+    color: #121F42;
+}
+/* end css halaman blog */
+
+
+/* css halaman about */
+/* css profil1 */
+    .profil1{
+        margin-bottom: 150px;
+    }
+    .profil1-header{
+        font-size: 36px;
+        font-weight: 600;
+    }
+    .profile-card{
+        background-color: #f8f5f5;
+        border-radius: 10px;
+        width: 250px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .profile-card .name{
+        margin-top: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 20px;
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .profile-card .sosmed{
+        margin-bottom: 10px;
+        font-weight: 500;
+    }
+    .profile-card .email{
+        margin-bottom: 10px;
+        font-weight: 600;
+    }
+    .profile-card .desc{
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-bottom: 40px;
+        font-size: 20px;
+        font-weight: 500
+    }
+/* end css profil1 */
+/* css profil2 */
+    .profil2{
+        margin-bottom: 150px;
+    }
+    .profil2-header{
+        font-size: 36px;
+        font-weight: 600;
+    }
+    .profil2-desc .head{
+        font-size: 32px;
+        font-weight: 600;
+    }
+    .profil2-desc .body{
+        font-size: 24px;
+        font-weight: 500;
+    }
+/* end css profil2 */
+/* end css halaman about */
+
+
+/* css footer */
+    .footer{
+        background-color: #D86F76;
+    }
+    .footer-text{
+        font-size: 18px;
+        font-weight: 700;
+        color: #FFFFFF;
+    }
+    .footer-text a{
+        color: #FFFFFF;
+        text-decoration: none;
+    }
+/* end css footer */
